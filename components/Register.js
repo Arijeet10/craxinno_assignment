@@ -41,7 +41,7 @@ const Register = () => {
     return ( 
         <>
             <div className="w-auto sm:w-[300px] lg:w-[400px] text-xs  ">
-                <div className="px-6 py-4 sm:py-6 sm:pt-14 text-white text-2xl sm:text-xl md:text-2xl text-center text-nowrap font-bold border-x border-t border-[#a8c8f0] border-r-[#4c6ac5] border-t-[#7199dd] rounded-t-[16px] bg-gradient-to-r from-[#7aa3e4] to-[#374fb9]">
+                <div className="px-6 py-4 sm:py-6 sm:pt-14 text-white text-2xl sm:text-xl md:text-2xl text-center text-nowrap font-bold border-x border-t border-[#a8c8f0] border-r-[#4c6ac5] border-t-[#4c6ac5] rounded-t-[16px] bg-gradient-to-r from-[#7aa3e4] to-[#374fb9]">
                     Create Your Account
                 </div>
 
@@ -83,7 +83,7 @@ const Register = () => {
                     </div>
                 </div>
 
-                <div className="sm:pb-20 px-6 py-2 sm:py-4 text-white  border-x border-b border-[#a8c8f0] border-r-[#4c6ac5] border-b-[#7199dd] rounded-b-[16px] font-medium flex flex-col gap-2 bg-gradient-to-r from-[#7aa3e4] to-[#374fb9]">
+                <div className="sm:pb-20 px-6 py-2 sm:py-4 text-white  border-x border-b border-[#a8c8f0] border-r-[#4c6ac5] border-b-[#4c6ac5] rounded-b-[16px] font-medium flex flex-col gap-2 bg-gradient-to-r from-[#7aa3e4] to-[#374fb9]">
                     <div className="w-full text-nowrap">
                         By Clicking "Register" you agree <span className="text-[#66c1ff] hover:border-b hover:border-[#66c1ff] cursor-pointer">Privacy Policy</span>
                     </div>
