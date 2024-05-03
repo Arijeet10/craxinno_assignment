@@ -23,7 +23,7 @@ const Homepage = () => {
         </div>
         </div>
         <div className=" bg-[url('/herobg.png')] bg-no-repeat">
-        <div className=" px-2 pt-[194px] pb-72 sm:px-2 sm:py-72 md:px-10 lg:px-44 flex flex-col sm:flex-row sm:items-center items-end gap-2 sm:gap-8 ">
+        <div className=" px-2 pt-[200px] pb-72 sm:px-2 sm:py-72 md:px-10 lg:px-44 flex flex-col sm:flex-row sm:items-center items-end gap-2 sm:gap-8 ">
           <div className="flex flex-col gap-2 sm:gap-4">
             <div className="text-4xl text-white font-bold text-nowrap">
               Integrated with<br/> Social Media
