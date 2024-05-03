@@ -17,7 +17,7 @@ const Signup = () => {
         </>
 
         <div className="pt-10 flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 ">
-          <div className=" flex items-center justify-center p-[2px] rounded-[16px] bg-gradient-to-r from-[#a8c0eb] to-[#4b66c4]">
+          <div className=" flex items-center justify-end p-[2px]  w-full sm:w-auto rounded-[16px] bg-gradient-to-r from-[#a8c0eb] to-[#4b66c4]">
             <Register />
           </div>
           <div className="  sm:pt-10 flex flex-col items-start gap-2 sm:gap-6">

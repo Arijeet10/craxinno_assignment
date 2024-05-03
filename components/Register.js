@@ -40,7 +40,7 @@ const Register = () => {
 
     return ( 
         <>
-            <div className="w-auto sm:w-[300px] lg:w-[400px] text-xs  rounded-[16px] bg-gradient-to-r from-[#7aa3e4] to-[#374fb9]">
+            <div className="w-full sm:w-[300px] lg:w-[400px] text-xs  rounded-[16px] bg-gradient-to-r from-[#7aa3e4] to-[#374fb9]">
                 <div className="px-6 py-4 sm:py-6 sm:pt-14 text-white text-2xl sm:text-xl md:text-2xl text-center text-nowrap font-bold  rounded-t-[16px] ">
                     Create Your Account
                 </div>
