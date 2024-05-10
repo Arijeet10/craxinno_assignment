@@ -1,14 +1,16 @@
+"use client"
 
+import { useRouter } from "next/navigation";
 
 
 const Navbar = () => {
 
-
+  const router=useRouter()
 
   return (
     <>
       <div className=" flex flex-col sm:flex-row items-center justify-between gap-4">
-        <div className=" ">
+        <div onClick={()=>router.push("/")} className="cursor-pointer ">
           <img src="/logo.svg" alt="logo" className="" />
         </div>
         <div className=" font-medium flex items-center justify-between sm:justify-center gap-4">
